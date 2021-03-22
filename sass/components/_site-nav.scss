@@ -1,0 +1,36 @@
+.link-prime__nav {
+  display: inline-block;
+  padding-top: 24px;
+  padding-bottom: 25px;
+  margin-right: 93px;
+  margin-left: 0;
+}
+
+.link-prime__nav,
+.site-nav__colortext,
+.link-prime-footer__adr,
+.colortext-footer__adr {
+  font-family: $secondary-font;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
+}
+
+.site-nav__colortext,
+.link-prime-footer__adr {
+  color: $blue-text;
+}
+
+.link-prime__nav {
+  color: $black-text;
+}
+
+.link-prime-footer__adr {
+  color: $white-text;
+}
+
+.link-prime-footer__adr {
+  display: inline-block;
+  margin-bottom: 20px;
+}
