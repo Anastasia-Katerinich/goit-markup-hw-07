@@ -26,23 +26,7 @@
   margin-bottom: 9px;
 }
 
-.mail__footer {
-  display: inline-block;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: $wt-op60;
-
-  transition: color 250ms $anime-function;
-
-  &:hover,
-  &:focus {
-    color: $blue-text;
-  }
-}
-
-.tel__footer {
+.contacts-footer__link {
   display: inline-block;
   font-weight: 400;
   font-size: 14px;
@@ -66,14 +50,14 @@
   margin-right: 93px;
 }
 
-.sub-title__text {
+.sub__title {
   margin-bottom: 20px;
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: $white-text;
+  color: #fff;
 }
 
 .sub__list {

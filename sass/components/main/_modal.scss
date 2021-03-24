@@ -118,28 +118,6 @@
   }
 }
 
-/* label со сдвигом над input*/
-/* 
-.modal-lable-name,
-.modal-lable-tel,
-.modal-lable-mail {
-  position: absolute;
-  top: 50%;
-  left: 42px;
-  transform: translateY(-50%);
-  font-weight: 500;
-  font-size: 12px;
-  line-height: 1.16;
-  letter-spacing: 0.01em;
-  color: $grey-text;
-} */
-
-/* .modal-input__name:focus + .modal-lable-name,
-.modal-input__tel:focus + .modal-lable-tel,
-.modal-input__mail:focus + .modal-lable-mail {
-  transform: translate(-42px, -40px);
-} */
-
 .modal-comments {
   position: relative;
   margin-bottom: 20px;
